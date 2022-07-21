@@ -1,4 +1,9 @@
+:root{
+    --brand-font: 'Lexend',sans-serif;
+    --brand-text-color: #D5BDAF;
+}
 body{
-font-family: 'Lexend', sans-serif;
+font-family: var(--brand-font);
+color: var(--brand-text-color);
 
 }
