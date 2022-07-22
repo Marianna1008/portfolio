@@ -5,6 +5,7 @@
 @media (max-width: 900px) {
 .first-p-p {
     display: none;
+    background-image: url('https: //my-bucket-1008.s3.amazonaws.com/Pole.png');
 }
 }
 body{
@@ -52,7 +53,7 @@ background-color:#010000;
     }
 
       .first-p{
-        margin-top: 500px;
+        margin-top: 50px;
         font-size: 32px;
         line-height: 1.2;
         padding: 0 25px;
