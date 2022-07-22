@@ -35,7 +35,7 @@ background-color:#010000;
     font-weight: 600;
     
 }
-.nav-item a:hover {
+.nav-item a:hover, .fa-brands:hover {
     color: #921D0F;
 
 }
@@ -55,7 +55,7 @@ background-color:#010000;
         border: 1px solid black;
     }
     .first-p{
-        margin-top: 400px;
+        margin-top: 500px;
         font-size: 32px;
         line-height: 1.2;
         padding: 0 25px;
@@ -72,22 +72,22 @@ background-color:#010000;
     .button{
         color:var(--brand-text-color);
         background-color: #921D0F;
-        padding: 15px;
+        padding: 22px 30px;
         border-radius: 10px; 
         text-decoration: none;
         font-weight: 600;
-        font-size: 20px;
+        font-size: 25px;
         line-height: 20px;
         text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);           
         
     }
-    .button:hover, .fa-brands:hover{
+    .button:hover {
     color: whitesmoke;
     
     }
 
     .container-button{
-        margin: 50px;
+        margin: 60px;
     }
     .icon{
         font-size: 30px;
