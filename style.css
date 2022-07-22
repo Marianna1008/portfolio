@@ -22,8 +22,8 @@ background-color:#010000;
 }
 .nav-item a, .navbar-toggler-icon{
     color: var(--brand-text-color) ;
-    font-size: 30px;
-    line-height: 34px;
+    font-size: 26px;
+    line-height: 30px;
     font-weight: 600;
     
 }
@@ -37,6 +37,7 @@ background-color:#010000;
     }
     .navbar{
     padding: 0 50px 0 0;
+    
     }
     .nav-item{
     padding: 0 25px 0 0;
