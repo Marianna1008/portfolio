@@ -11,6 +11,7 @@ body{
 font-family: var(--brand-font);
 color: var(--brand-text-color);
 height: 100%;
+background-color: #010000;
 
 }
 .container{
@@ -51,10 +52,7 @@ background-color:#010000;
     padding: 0 25px 0 0;
     }
 
-    div{
-        border: 1px solid black;
-    }
-    .first-p{
+      .first-p{
         margin-top: 500px;
         font-size: 32px;
         line-height: 1.2;
