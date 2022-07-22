@@ -55,14 +55,15 @@ background-color:#010000;
         border: 1px solid black;
     }
     .first-p{
-        margin-top: 300px;
+        margin-top: 400px;
         font-size: 24px;
         line-height: 30px;
         padding: 0 25px;
+        font-weight: 600;
         
     }
     .first-p-2{
-        margin-top: 80px;
+        margin-top: 200px;
         font-size: 28px;
         line-height: 32px;
         font-weight: 600;
