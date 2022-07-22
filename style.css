@@ -56,16 +56,16 @@ background-color:#010000;
     }
     .first-p{
         margin-top: 400px;
-        font-size: 24px;
-        line-height: 30px;
+        font-size: 32px;
+        line-height: 1.2;
         padding: 0 25px;
         font-weight: 600;
         
     }
     .first-p-2{
         margin-top: 200px;
-        font-size: 28px;
-        line-height: 32px;
+        font-size: 38px;
+        line-height: 1.2;
         font-weight: 600;
         padding: 0 25px;
     }
@@ -87,7 +87,7 @@ background-color:#010000;
     }
 
     .container-button{
-        margin: 20px;
+        margin: 50px;
     }
     .icon{
         font-size: 30px;
