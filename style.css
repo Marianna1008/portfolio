@@ -73,7 +73,7 @@ color: #921D0F;
     .button{
         color:var(--brand-text-color);
         background-color: #921D0F;
-        padding: 22px 30px;
+        padding: 22px 35px;
         border-radius: 10px; 
         text-decoration: none;
         font-weight: 600;
@@ -114,6 +114,17 @@ padding: 20px 80px;
     font-size: 24px;
     font-weight: bold;
     line-height: 1.4;
+}
+.p-about-bold-2 {
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.4;
+}
+
+.p-about-normal {
+    font-size: 26px;
+    line-height: 1.4;
+    font-weight: bold;
 }
 
 
