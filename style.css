@@ -48,7 +48,7 @@ color: #921D0F;
         -webkit-filter: contrast(0%);
     }
     .navbar{
-    padding: 0 50px 0 0;
+    padding: 0 50px 0 50px;
     
     }
     .nav-item{
@@ -107,11 +107,13 @@ color: #921D0F;
 padding: 20px 80px; 
 }
 .p-about{
-  font-size: 24px;  
+  font-size: 24px;
+  line-height: 1.4;
 }
 .p-about-bold {
     font-size: 24px;
     font-weight: bold;
+    line-height: 1.4;
 }
 
 
