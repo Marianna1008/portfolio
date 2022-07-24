@@ -129,4 +129,32 @@ padding: 20px 80px;
 }
 
 
+/*table, tr, td {
+border: 1px solid white;
+}
+*/
+td{
+margin: 0; 
+padding: 0; 
+}
+.table-main-row{
+background: linear-gradient(180deg, rgba(1, 0, 0, 0) 0%, rgba(213, 189, 175, 0.1) 100%);
+
+}
+.table-main-col{
+text-align: center;
+width: 100px;
+background: linear-gradient(287.02deg, rgba(217, 217, 217, 0.1) -32.63%, rgba(1, 0, 0, 0.1) 44.03%);
+padding-bottom: 5px;
+}
+
+.dot{
+color: #010000;;
+}
+
+.red-line{
+border-top: 3px ridge #921D0F;
+
+}
+
     
