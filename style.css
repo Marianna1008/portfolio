@@ -110,7 +110,7 @@ color: #921D0F;
 padding: 20px 80px; 
 }
 .p-about{
-  font-size: 28px;
+  font-size: 22px;
   line-height: 1.4;
 }
 .p-about-bold {
@@ -119,15 +119,13 @@ padding: 20px 80px;
     line-height: 1.4;
 }
 .p-about-bold-2 {
-    font-size: 30px;
+    font-size: 28px;
     font-weight: bold;
     line-height: 1.4;
 }
 
-.p-about-normal {
-    font-size: 24px;
-    line-height: 1.4;
-    font-weight: bold;
+.margin-b-10{
+    margin-bottom: 10px;
 }
 
 
