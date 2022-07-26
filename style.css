@@ -105,9 +105,7 @@ color: #921D0F;
     .fa-brands{ 
     color: var(--brand-text-color);
 }
-/*div{
-    border: 1px solid white;
-}*/
+
 .padding-20{
     padding: 20px;
 }
@@ -176,7 +174,7 @@ border-top: 3px ridge #921D0F;
 }
 /* Slideshow container */
 .slideshow-container-videos {
-    max-width: 650px;
+    max-width: 750px;
     position: relative;
     margin: auto;
 }
@@ -245,5 +243,11 @@ video{
     max-width: 800px;
     margin: auto;
 }
-
+/*div, p{
+    border: 1px solid white;
+}*/
+.form{
+    background-color: var(--brand-text-color);
+    border-radius: 10px;
+}
     
